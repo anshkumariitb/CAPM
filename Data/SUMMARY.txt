@@ -1,0 +1,10 @@
+Window               : 2016-01-01 to 2025-12-31
+Symbols in list      : 500
+Downloaded OK        : 500
+Failed on Yahoo      : 0
+Expected months      : 120
+Stocks COMPLETE data : 320
+Stocks per portfolio : 10
+==> PORTFOLIOS YOU CAN FORM : 32
+
+Failed tickers: (none)
